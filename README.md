@@ -40,7 +40,7 @@ The **Quiz Application** is a Spring Boot–based backend system built to stream
 
 ---
 
-## Outcome & Value
+
 
 This project demonstrates your ability to design and deliver a high-quality backend service with clean architecture, robust error handling, and scalable APIs. It shows competence in combining Spring Boot, JPA, exception handling, and API best practices to build a professional, maintainable quiz platform.
 
